@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'comic sans ms', cursive;
+}
+body{
+    background-color: #f5f1e2;
+    padding: 10px 13%;
+}
+body h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+
+.text{
+    margin-left: 50%;
+    margin-bottom:100px ;
+}
+.text h2{
+    font-size: 40px;
+}
+.text h3{
+    font-size: 25px;
+}
+.text h4{
+    font-size: 20px;
+}
+.image img{
+    position: absolute;
+}
+.ship1{
+    top: 5%;
+    width: 350px;
+}
+.ship2{
+    top: 5%;
+    left: 25%;
+    width: 350px;
+}
+.catapult1{
+    top: 15%;
+    width: 400px;
+}
+.catapult2{
+    top: 20%;
+    left: 25%;
+    width: 350px;
+}
+.double1{
+    top: 34%;
+    width: 450px;
+}
+.double2{
+    top: 43%;
+}
+.double3{
+    top: 33%;
+    width: 300px;
+    left: 30%;
+}
+.numpla1{
+    top: 54%;
+    width: 350px;
+}
+.numpla2{
+    top: 54%;
+    width: 350px;
+    left: 25%;
+}
+.จิตอาสา{
+    top: 62%;
+    width: 300px;
+    left: 15%;
+}
+.เปิดหมวก{
+    top: 70%;
+    width: 300px;
+    left: 15%;
+}
+.behind{
+    top: 78%;
+    width: 300px;
+    left: 15%;
+}
+.stock{
+    top: 87%;
+    width: 350px;
+    left: 25%;
+}
+.DKSH{
+    top: 86%;
+    width: 300px;
+    margin-bottom: 300px;
+}
